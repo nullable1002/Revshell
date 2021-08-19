@@ -2,7 +2,7 @@
 
 # author: Nullable
 
-f_name="/tmp/bindshell_null"
+f_name="/tmp/revshell_null"
 trap "rm $f_name" EXIT
 
 del_pipe () {
